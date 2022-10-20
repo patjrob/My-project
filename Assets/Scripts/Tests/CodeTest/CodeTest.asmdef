@@ -1,0 +1,9 @@
+{
+    "name": "CodeTest",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
